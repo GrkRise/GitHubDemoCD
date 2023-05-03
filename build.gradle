@@ -27,7 +27,7 @@ publishing {
     publications {
         maven(MavenPublication) {
             groupId 'com.grkrise'
-            artifactId 'Githubdemocd'
+            artifactId 'githubdemocd'
             version '1.1'
             from components.java
         }
